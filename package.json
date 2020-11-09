@@ -18,6 +18,11 @@
   "publishConfig": {
     "access": "public"
   },
+  "homepage": "https://github.com/sfrangulov/tar-parse-one",
+  "author": "Sergey Frangulov",
+  "bugs": {
+    "url": "https://github.com/sfrangulov/tar-parse-one/issues"
+  },
   "keywords": ["tar", "untar", "tar.gz", "parse", "single", "stream"],
   "contributors": [],
   "repository": {
