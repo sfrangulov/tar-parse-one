@@ -23,7 +23,14 @@
   "bugs": {
     "url": "https://github.com/sfrangulov/tar-parse-one/issues"
   },
-  "keywords": ["tar", "untar", "tar.gz", "parse", "single", "stream"],
+  "keywords": [
+    "tar",
+    "untar",
+    "tar.gz",
+    "parse",
+    "single",
+    "stream"
+  ],
   "contributors": [],
   "repository": {
     "url": "https://github.com/sfrangulov/tar-parse-one.git"
