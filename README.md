@@ -45,7 +45,7 @@ Example:
 
 ```js
 fs.createReadStream('path/to/archive.tar.gz')
-  .pipe(ParseOne())
+  .pipe(parseOne())
   .pipe(fs.createWriteStream('firstFile.txt'));
 ```
   

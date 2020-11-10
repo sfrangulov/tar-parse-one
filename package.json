@@ -1,7 +1,7 @@
 {
   "name": "tar-parse-one",
   "description": "Parse a single file from tar.gz and pipe contents",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "scripts": {
     "build": "rollup -c",
